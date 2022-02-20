@@ -1,6 +1,16 @@
-## Your Name
+## Joe Thornton
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I've decided to finally heed the advice I give to friends and family - become a developer.
+
+I have worked in the following areas with varying degrees of success:
+- product management in Government. SUCCESS - we got food and care to vulnerable people in lockdown.
+- product management and consulting in sustainability. SOME SUCCESS - the planet is still getting hotter, but hopefully less quickly.
+- finance at Procter and Gamble. SUCCESS - we sold fairy liquid at a profit.
+
+I want to be a developer because:
+- I like technical stuff and I'm technically minded (for example, I studied Engineering Science at uni)
+- I like problem solving (provided it's the right problem) and I've got lots of experience at it
+- I like learning and I'm told you're always learning as a developer
 
 ## Projects
 
@@ -11,15 +21,32 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Department for Education** (Apr 21 - Jan 22)  
+_Lead Product Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Part of the management team for Children's Social Care and Early Years. Led a team of 6 product managers, including coaching them in product management techniques. The main techniques I coached were stuctured problem solving, communication (especially the Pyramid Principle) and stakeholder management
+- Supported DfE's Head of Product (alongside 2 other Lead Product Managers) in developing DfE's wider product community, including leading product community sessions
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Government Digital Service (GDS)** (Jan 18 - Mar 21)  
+_Senior Product Manager_
 
 - Any experience relevent to software development
+
+**Carbon Trust** (2011 - 2017)  
+_Consultant; Digital Product Lead_
+
+- Any experience relevent to software development
+
+**Procter and Gamble (P&G)** (2010 - 2011)  
+_Contract Finance Analyst_
+
+- Any experience relevent to software development
+
+**Karian and Box** (2010 - 2011)  
+_Contract Analyst_
+
+- Any experience relevent to software development
+
 
 ## Skills
 
@@ -62,11 +89,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### General Assembly - Product Management (2016)
 
-- Subject, any specialisms
+#### University of Oxford - Engineering Science (2005 to 2009)
+
+- 2.1
 - Grade
 - Other cool stuff
+
+
 
 #### Any other qualifications
 
