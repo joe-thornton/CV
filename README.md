@@ -10,7 +10,7 @@ I have worked in the following areas with varying degrees of success:
 I want to be a developer because:
 - I like technical stuff and I'm technically minded (for example, I studied Engineering Science at uni)
 - I like problem solving (provided it's the right problem) and I've got lots of experience at it
-- I like learning and I'm told you're always learning as a developer
+- I like learning and you're always learning as a developer
 
 ## Projects
 
