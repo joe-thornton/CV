@@ -1,6 +1,6 @@
 ## Joe Thornton
 
-I've decided to finally heed the advice I give to friends and family - become a developer.
+I've decided to finally heed the advice I give to friends and family and become a developer.
 
 I have worked in the following areas with varying degrees of success:
 - product management in Government. SUCCESS - we got food and care to vulnerable people in lockdown.
