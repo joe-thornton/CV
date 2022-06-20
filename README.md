@@ -42,7 +42,6 @@ _Contract Analyst_
 
 - Any experience relevent to software development
 
-
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -75,7 +74,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb '22 to May '22)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -89,10 +88,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Oxford - Engineering Science (2005 to 2009)
 
 - 2.1
-- Grade
-- Other cool stuff
-
-
+- St Hugh's College Contribution to Sport award, 2008
 
 #### Any other qualifications
 
