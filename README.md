@@ -1,16 +1,11 @@
 ## Joe Thornton
 
-I've decided to finally heed the advice I give to friends and family and become a developer.
-
-I have worked in the following areas with varying degrees of success:
-- product management in Government. SUCCESS - we got food and care to vulnerable people in lockdown.
-- product management and consulting in sustainability. SOME SUCCESS - the planet is still getting hotter, but hopefully less quickly.
-- finance at Procter and Gamble. SUCCESS - we sold fairy liquid at a profit.
+Having worked in technology as a technical product manager, I decided that I wanted to get closer to the technology and ship code.
 
 I want to be a developer because:
 - I like technical stuff and I'm technically minded (for example, I studied Engineering Science at uni)
 - I like problem solving (provided it's the right problem) and I've got lots of experience at it
-- I like learning and you're always learning as a developer
+- I like learning
 
 ## Projects
 
